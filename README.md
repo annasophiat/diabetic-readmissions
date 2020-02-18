@@ -1,1 +1,1 @@
-# Diabetes Hospital Readmittance Predictions
+# Diabetes Hospital Readmit Predictions
